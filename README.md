@@ -7,7 +7,6 @@ cd intercepting-routes-sample
 npm install
 
 npm run dev
-
 ```
 
 ### Demo　　
